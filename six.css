@@ -1,0 +1,33 @@
+
+.nav{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 20px;
+    text-transform: capitalize;
+}
+.nav ul{
+    padding-left: 500px;
+    list-style: none ;
+    display: flex;
+}
+.nav ul a {
+    padding-left: 20px;
+    text-decoration: none;
+    
+}
+.main{
+    text-align: center;
+    font-size: large;
+    padding-top: 30px;
+}
+.main h1{
+    font-size: medium;
+    font-weight: 100;
+}
+.main p{
+   font-size: large;
+   text-decoration: dotted;  
+}
+.main h2{
+    font-size: 150px;
+}
